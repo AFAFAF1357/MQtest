@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../A-What you need to know/Business incubator - a safe start.htm'],s:['000','rozpocznij'],p:[['000',8],['commercial',2],['is',12],['provisions',7],['trusted',21]]});
